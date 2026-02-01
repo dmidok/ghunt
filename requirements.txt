@@ -1,0 +1,6 @@
+# For LLM mode (--mode llm)
+ollama>=0.3.0
+
+# Dev / testing: pip install -e ".[dev]"
+
+# Python 3.10+ required (for type hints)

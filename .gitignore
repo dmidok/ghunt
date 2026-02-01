@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+token.txt
+ghunt_checked.txt
+.venv/
+venv/
+*.egg-info/
+.eggs/
+dist/
+build/
